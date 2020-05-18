@@ -1,0 +1,4 @@
+interface PrzykladowyInterfejs {
+    void przykladowaMetoda();
+
+}
